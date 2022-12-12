@@ -4,8 +4,9 @@ using namespace std;
 
 int main(){
     int D;
-    float num[D];
     cin>>D;
+    float num[D];
+    
     for (int i=0;i< D;i++){
         cin>> num[i];
     }
