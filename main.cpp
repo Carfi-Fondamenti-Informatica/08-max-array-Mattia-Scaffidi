@@ -1,7 +1,6 @@
 #include <iostream>
-using namespace std;
 #include "lib.h"
-
+using namespace std;
 int main(){
     int dim;
     float num[dim];
