@@ -4,13 +4,13 @@ using namespace std;
 
 int main(){
     int dim;
-    int num[dim];
+    float num[dim];
     
     cin>>dim;
     for (int i=0;i< dim;i++){
         cin>> num[i];
     }
-    cout<< funzione(num, dim);
+    cout<< funzione(num, dim)<<endl;
 
     return 0;
 }
