@@ -6,11 +6,11 @@ int main(){
     int dim;
     float num[dim];
     
-    cin>>dim>>endl;
+    cin>>dim;
     for (int i=0;i< dim;i++){
         cin>> num[i];
     }
-    cout<< funzione(num, dim)<<endl;
+    cout<< funzione(num, dim);
 
     return 0;
 }
