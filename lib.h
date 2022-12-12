@@ -1,1 +1,1 @@
-float funzione(float num[], int dimensione);
+float funzione(float numeri[], int dimensione);
