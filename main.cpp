@@ -6,7 +6,7 @@ int main(){
     int dim;
     float num[dim];
     
-    cin>>dim;
+    cin>>dim>>endl;
     for (int i=0;i< dim;i++){
         cin>> num[i];
     }
