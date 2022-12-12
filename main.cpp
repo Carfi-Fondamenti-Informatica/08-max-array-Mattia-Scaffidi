@@ -3,8 +3,9 @@
 using namespace std;
 
 int main(){
-    float dim;
-    float num[dim];
+    int dim;
+    int num[dim];
+    
     cin>>dim;
     for (int i=0;i< dim;i++){
         cin>> num[i];
