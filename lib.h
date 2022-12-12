@@ -1,1 +1,1 @@
-void funzione(const float numeri[], int dimensione);
+float funzione(const float numeri[], int dimensione);
