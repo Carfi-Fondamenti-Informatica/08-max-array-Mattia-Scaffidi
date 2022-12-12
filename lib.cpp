@@ -1,5 +1,5 @@
 #include "lib.h"
-float funzione(const float numeri[], int dimensione){
+float funzione(float numeri[], int dimensione){
     float massimo= numeri[0];
     for (int i=0;i < dimensione;i++) {
         if (massimo < numeri[i]) {
